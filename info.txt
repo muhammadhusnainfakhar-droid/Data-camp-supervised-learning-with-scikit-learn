@@ -1,0 +1,2 @@
+I have created this file to store some information about a data camp
+supervised learning course with scikit lern.
